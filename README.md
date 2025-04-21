@@ -17,8 +17,8 @@ Wine quality is influenced by multiple chemical attributes like acidity, sugar, 
 ## 📁 Project Structure
 
 wine-quality-1day/ 
-  -├── data/ 
-        -│ └── winequality-red.csv # Raw dataset 
+  - ├── data/ 
+        │ └── winequality-red.csv # Raw dataset 
   -├── notebooks/ 
         -│ └── EDA_and_Model.ipynb # Data exploration and model training 
   -├── app/ 
