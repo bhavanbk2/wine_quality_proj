@@ -16,15 +16,23 @@ Wine quality is influenced by multiple chemical attributes like acidity, sugar, 
 
 ## 📁 Project Structure
 
-wine-quality-1day/ 
-  - ├── data/ 
+wine-quality-proj/ 
+
+  ├── data/ 
+
         │ └── winequality-red.csv # Raw dataset 
-  -├── notebooks/ 
-        -│ └── EDA_and_Model.ipynb # Data exploration and model training 
-  -├── app/ 
-        -│ └── app.py # Streamlit app for quality prediction 
-  -├── requirements.txt # Python dependencies 
-  -└── README.md # Project documentation
+  
+  ├── notebooks/ 
+  
+        │ └── EDA_and_Model.ipynb # Data exploration and model training 
+  
+  ├── app/ 
+  
+        │ └── app.py # Streamlit app for quality prediction 
+  
+  ├── requirements.txt # Python dependencies 
+  
+  └── README.md # Project documentation
 ---
 
 ## 📊 Dataset Details
